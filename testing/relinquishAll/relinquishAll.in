@@ -1,0 +1,16 @@
+relinquish all 100000
+add member Hagrid
+add collection test.csv
+rent 100000 111111
+rent 100000 111112
+rent 100000 111113
+rent 100000 111114
+rent 100000 111115
+member books 100000
+relinquish all 100000
+member books 100000
+rent 100000 111115
+member books 100000
+relinquish all 100000
+member books 100000
+exit

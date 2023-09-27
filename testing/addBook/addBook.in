@@ -1,0 +1,11 @@
+book 111111
+add book fake.csv 111111
+add book test.csv 111111
+book 111111
+book 111111 LONG
+add book test.csv 111111
+add book test.csv 1
+add collection fake.csv
+add collection test.csv
+add collection test.csv
+exit

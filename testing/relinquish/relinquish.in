@@ -1,0 +1,14 @@
+relinquish 100000 111111
+add member Ron
+add member Luna
+relinquish 100000 111111
+add collection test.csv
+relinquish 1 111111
+relinquish 100000 1
+rent 100000 111111
+member books 100000
+relinquish 100001 111111
+relinquish 100000 111112
+relinquish 100000 111111
+member books 100000
+exit

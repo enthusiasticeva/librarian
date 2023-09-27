@@ -1,0 +1,10 @@
+rent 100000 111111
+add member Harry
+rent 100000 111111
+add collection test.csv
+rent 100001 111111
+rent 100000 1
+add member Hermione
+rent 100000 111111
+rent 100001 111111
+exit

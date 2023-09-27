@@ -1,0 +1,6 @@
+list authors
+list genres
+add collection test.csv
+list authors
+list genres
+exit

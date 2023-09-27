@@ -1,0 +1,13 @@
+book history 111111
+add collection test.csv
+book history 111111
+add member Fred
+add member George
+rent 100000 111111
+relinquish 100000 111111
+rent 100001 111111
+relinquish 100001 111111
+rent 100000 111111
+relinquish 100000 111111
+book history 111111
+exit

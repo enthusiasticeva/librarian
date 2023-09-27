@@ -1,0 +1,6 @@
+save collection save.csv
+add Book test.csv 111119
+add Book test.csv 111123
+add Book test.csv 111127
+save collection testing/saveCollection/save.csv
+exit
